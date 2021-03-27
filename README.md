@@ -1,8 +1,8 @@
-## Hi there, I'm Rishabh
+## Hi there, I'm a frontend developer.
 
 <br />
 
-#### I mostly work on frontend and sometimes make tools to help programmers be more efficient.
+#### I mostly make website and mobile app using javascript (React*) and also some tools to help programmers be more efficient.
 
 - I have made [CSS to CSSInJS](https://github.com/Rishabh-Rathod/css-to-js) ( VsCode Extenion ) and [DiffyCURL](https://rishabh-rathod.github.io/DiffyCurl/) to solve problems which i faced during my work.
 
