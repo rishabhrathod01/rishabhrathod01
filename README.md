@@ -15,7 +15,6 @@
 
 [<img align="left" alt="Twitter" width="22px" src="https://user-images.githubusercontent.com/23132741/112717534-70875500-8f13-11eb-9e44-3016a8cab25f.png" />](https://twitter.com/Rathodris)
 [<img align="left" alt="LinkedIn" width="22px" src="https://user-images.githubusercontent.com/23132741/112717612-ea1f4300-8f13-11eb-92fc-33b56e9b08b1.png" />](https://www.linkedin.com/in/rishabh-rathod-021505aa/)
-[<img align="left" alt="Instagram" width="36px" src="https://download.logo.wine/logo/Instagram/Instagram-Logo.wine.png" />](https://www.instagram.com/iamrishabhrathod/)
 
 
 <br />
