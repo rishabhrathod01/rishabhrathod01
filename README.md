@@ -11,5 +11,5 @@ I mostly make website and mobile app using javascript (React*) and also some too
 
 <hr />
 
-[<img align="left" alt="Twitter" src="https://img.shields.io/twitter/url?label=My%20Tweets&style=social&url=https%3A%2F%2Ftwitter.com%2FRathodris" />](https://twitter.com/Rathodris)
+[<img align="left" alt="Twitter" src="https://img.shields.io/twitter/url?label=My%20Tweets&style=social&url=https%3A%2F%2Ftwitter.com%2FRathodris" />](https://twitter.com/importRishabh)
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-Profile-brightgreen" />](https://www.linkedin.com/in/Rathodris/)
