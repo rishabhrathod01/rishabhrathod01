@@ -7,9 +7,7 @@ I mostly make website and mobile app using javascript (React*) and also some too
 
 - I have made [CSS to CSSInJS](https://github.com/Rishabh-Rathod/css-to-js) ( VsCode Extenion ) and [DiffyCURL](https://rishabh-rathod.github.io/DiffyCurl/).
 
-- I’m currently procastinating for my next project. 😅
-
 <hr />
 
-[<img align="left" alt="Twitter" src="https://img.shields.io/twitter/url?label=My%20Tweets&style=social&url=https%3A%2F%2Ftwitter.com%2FRathodris" />](https://twitter.com/importRishabh)
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-Profile-brightgreen" />](https://www.linkedin.com/in/Rathodris/)
+[<img align="left" alt="Twitter" src="https://img.shields.io/twitter/url?label=My%20Tweets&style=social&url=https%3A%2F%2Ftwitter.com%2FRathodris" />](https://twitter.com/rishabhrathod01)
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-Profile-brightgreen" />](https://www.linkedin.com/in/rishabhrathod01/)
