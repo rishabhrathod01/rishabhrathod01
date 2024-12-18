@@ -1,7 +1,6 @@
 
 
 # Hi there, I'm Rishabh. 
-#### Frontend Engineer at [Appsmith](https://github.com/appsmithorg/appsmith).
 
 I mostly make website and mobile app using javascript (React*) and also some tools to help programmers be more efficient.
 
