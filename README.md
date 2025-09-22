@@ -4,7 +4,7 @@ I’m a developer passionate about building **websites** and **mobile apps** usi
 
 #### 🛠️ Projects I’ve built  
 - [CSS to CSSInJS](https://github.com/Rishabh-Rathod/css-to-js) – A **VSCode Extension** to convert CSS to CSS-in-JS styles.  
-- [DiffyCURL](https://rishabh-rathod.github.io/DiffyCurl/) – A web tool to easily compare and transform cURL commands.  
+- [DiffyCURL](https://rishabhrathod01.github.io/DiffyCurl/) – A web tool to easily compare and transform cURL commands.  
 
 
 #### 🌐 Connect with me  
