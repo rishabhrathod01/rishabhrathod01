@@ -15,7 +15,7 @@
 
 #### 📝 Latest writing
 
-I write on [my portfolio blog](https://rishabhrathod01.github.io/portfolio/blog) about system design, automation, React Native, and low-code:
+I write on [my portfolio blog](https://rishabhrathod01.github.io/blog) about system design, automation, React Native, and low-code:
 
 - [System Design Learning Path — 12-Week Curriculum](https://rishabhrathod01.github.io/portfolio/blog/system-design-learning-path-12-week-curriculum)
 - [Automating WhatsApp Messages to My Cook with GitHub Actions](https://rishabhrathod01.github.io/portfolio/blog/automate-whatsapp-messages-to-cook-github-actions)
