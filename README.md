@@ -17,10 +17,10 @@
 
 I write on [my portfolio blog](https://rishabhrathod01.github.io/blog) about system design, automation, React Native, and low-code:
 
-- [System Design Learning Path — 12-Week Curriculum](https://rishabhrathod01.github.io/portfolio/blog/system-design-learning-path-12-week-curriculum)
-- [Automating WhatsApp Messages to My Cook with GitHub Actions](https://rishabhrathod01.github.io/portfolio/blog/automate-whatsapp-messages-to-cook-github-actions)
-- [Implementing MIUI's Wave Animation with React Native Reanimated v2](https://rishabhrathod01.github.io/portfolio/blog/implementing-miuis-wave-animation-using-react-native-reanimated-v2)
-- [Building an admin panel with low-code (Appsmith)](https://rishabhrathod01.github.io/portfolio/blog/building-an-admin-panel-using-low-code-tools-appsmith)
+- [System Design Learning Path — 12-Week Curriculum](https://rishabhrathod01.github.io/blog/system-design-learning-path-12-week-curriculum)
+- [Automating WhatsApp Messages to My Cook with GitHub Actions](https://rishabhrathod01.github.io/blog/automate-whatsapp-messages-to-cook-github-actions)
+- [Implementing MIUI's Wave Animation with React Native Reanimated v2](https://rishabhrathod01.github.io/blog/implementing-miuis-wave-animation-using-react-native-reanimated-v2)
+- [Building an admin panel with low-code (Appsmith)](https://rishabhrathod01.github.io/blog/building-an-admin-panel-using-low-code-tools-appsmith)
 
 #### 🌐 Connect with me
 
